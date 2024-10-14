@@ -9,6 +9,7 @@ export default function Navbar() {
           <li>Beranda</li>
           <li>Materi</li>
           <li>Quiz Interaktive</li>
+          <li>test</li>
         </ul>
         <div>
           <a
