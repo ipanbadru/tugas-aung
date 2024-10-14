@@ -7,6 +7,7 @@ export default function Navbar() {
           <li>Beranda</li>
           <li>Materi</li>
           <li>Quiz Interaktive</li>
+          <li>test</li>
         </ul>
         <a href="" className="py-0.5 px-1 rounded-sm bg-primary text-white">
           Tentang Kami
