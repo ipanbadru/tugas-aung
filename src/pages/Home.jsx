@@ -4,9 +4,10 @@ import Navbar from "../components/Navbar";
 
 export default function Home() {
     return (
-        <><Navbar />
+        <div className="min-h-screen flex flex-col justify-between">
+        <Navbar />
         <Hero />
         <Footer />
-        </>
+        </div>
     )
 }

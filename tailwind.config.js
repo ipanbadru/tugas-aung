@@ -14,7 +14,7 @@ export default {
         'secondary' : '#E6DEDD',
       },
       fontFamily: {
-        'poppins': ['Poppins', ...defaultTheme.fontFamily.sans],
+        'poppins': ['"Poppins"', ...defaultTheme.fontFamily.sans],
       },
     },
     container: {

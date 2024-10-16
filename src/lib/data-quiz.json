@@ -1,0 +1,47 @@
+{
+    "1": {
+        "question": "Siapa yang menjadi pemimpin utama dalam gerakan G30S/PKI dan dikenal sebagai dalang dari peristiwa tersebut?",
+        "choises": {
+            "a": "A. Soekarno",
+            "b": "B. D.N. Aidit",
+            "c": "C. Letkol Untung",
+            "d": "D. Soeharto"
+        }
+    },
+    "2": {
+        "question": "Apa tujuan utama dari gerakan G30S/PKI?",
+        "choises": {
+            "a": "A. Menggulingkan Soekarno",
+            "b": "B. Negara komunis",
+            "c": "C. Meningkatkan hubungan",
+            "d": "D. Ideologi demokrasi"
+        }
+    },
+    "3": {
+        "question": "Di mana lokasi penangkapan beberapa perwira tinggi TNI AD oleh anggota G30S/PKI?",
+        "choises": {
+            "a": "A. Yogyakarta",
+            "b": "B. Lubang Buaya",
+            "c": "C. Jakarta",
+            "d": "D. Bandung"
+        }
+    },
+    "4": {
+        "question": "Siapa dari berikut ini yang berhasil meloloskan diri dari penangkapan G30S/PKI?",
+        "choises": {
+            "a": "A. Ahmad Yani",
+            "b": "B. AH Nasution",
+            "c": "C. D.N. Aidit",
+            "d": "D. Karel Satsuit Tubun"
+        }
+    },
+    "5": {
+        "question": "Setelah tragedi G30S/PKI, berapa estimasi jumlah anggota dan pendukung PKI yang menjadi korban pembunuhan hingga akhir tahun 1965?",
+        "choises": {
+            "a": "A. 100 ribu",
+            "b": "B. 250 ribu",
+            "c": "C. 500 ribu hingga satu juta",
+            "d": "D. 2 juta"
+        }
+    }
+}
