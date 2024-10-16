@@ -8,7 +8,7 @@ import Materi3 from "./pages/Materi3";
 import Materi4 from "./pages/Materi4";
 import Quiz from "./pages/Quiz";
 import ResultQuiz from "./pages/ResultQuiz";
-import About from "./pages/about";
+import About from "./pages/About";
 
 export default function App() {
   return (
